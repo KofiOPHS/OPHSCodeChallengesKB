@@ -1,0 +1,7 @@
+number1 = int(input("Enter a numbers"))
+number2 = int(input("Enter a numbers"))
+
+sum = number1 + number2
+avg = sum/2
+
+print(avg)
