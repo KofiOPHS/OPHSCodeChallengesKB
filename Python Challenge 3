@@ -1,0 +1,5 @@
+width = int(input("Enter the width"))
+height = int(input("Enter the length"))
+
+area = width * height
+print(area)
